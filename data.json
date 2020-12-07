@@ -1,0 +1,46 @@
+{
+    "todos": [
+      {
+        "text": "Do Laundry",
+        "priority": 5,
+        "done": false,
+        "id": 1
+      },
+      {
+        "text": "Bake a Cake",
+        "priority": 4,
+        "done": false,
+        "id": 2
+      },
+      {
+        "text": "Watch a Movie",
+        "priority": 2,
+        "done": false,
+        "id": 3
+      },
+      {
+        "text": "Do Homework",
+        "priority": 4,
+        "done": false,
+        "id": 4
+      },
+      {
+        "text": "Wash the Clothes",
+        "priority": 3,
+        "done": false,
+        "id": 5
+      },
+      {
+        "text": "Go For a Walk",
+        "priority": 3,
+        "done": false,
+        "id": 6
+      },
+      {
+        "text": "Study",
+        "priority": 4,
+        "done": false,
+        "id": 7
+      }
+    ]
+  }
