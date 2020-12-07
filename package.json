@@ -1,0 +1,23 @@
+{
+    "name": "node-todo",
+    "version": "1.0.0",
+    "description": "Nodejs Todo List with JSON data and unit testing with Chai Mocha Supertest",
+    "main": "todos.js",
+    "scripts": {
+      "start": "node todos.js",
+      "test": "mocha"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "chai": "^4.2.0",
+      "mocha": "^8.2.1",
+      "supertest": "^6.0.1"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "node": "^15.3.0"
+    }
+  }
+  
